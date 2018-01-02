@@ -1,0 +1,20 @@
+{
+  "name": "angular",
+  "version": "0.0.1",
+  "main": "index.html",
+  "repository": "git@github.com:git-ysz/angular.git",
+  "author": "git-ysz <976776565@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "docsify serve ./",
+    "start": "npm run dev"
+  },
+  "devDependencies": {
+    "docsify-cli": "^4.2.0"
+  },
+  "dependencies": {
+    "and": "0.0.0",
+    "npm": "^5.6.0",
+    "start": "^5.1.0"
+  }
+}
